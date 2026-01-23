@@ -1,0 +1,13 @@
+alt + shift + Down arrow = code replicate | rewrite
+mutiple cursor at same time = press alt
+<h>= tag for heading
+<p> = tag for paragraph
+view -> word wrap -> all letters in whole desktop
+lorem23 - emmit abbrevation
+
+in line css = in html <p style> -> tag 
+ctrl + / = comment
+link = press a - anchor tag 
+to open link in new tab : <a target="_blank"
+
+end kek (1 number hai right side)= row ke last me chale jayega cursor
